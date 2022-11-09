@@ -23,8 +23,8 @@
 
  <div>
    <a href="https://github.com/gmunhoz98">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gmunhoz98&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&border_color=midnight"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmunhoz98&layout=compact&langs_count=6&theme=midnight-purple"/>
+   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gmunhoz98&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&border_color=midnight"/>
+   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmunhoz98&layout=compact&langs_count=6&theme=midnight-purple"/>
 </div>
    
  <br>
