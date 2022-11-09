@@ -1,7 +1,11 @@
 ## Bem-vindo(a) ao perfil do Gabriel Munhoz 😁
 
 <ul>
-  <li> Analista de Sistemas Jr. - Icaro Tech </li>
+  <li>Sou desenvolvedor Fullstack Jr da empresa Icaro Tech </li>
+  <li> Olá, tudo bem? </li>
+  <li> Esse é meu portifólio, ainda está crescendo, mas um dia ficará bem bonito vocês vão ver!! </li>
+  <br>
+  <li>Por hora estou aprendendo bastante coisa, se tiver interesse ou ideias para falar para mim pode me chamar sem problemas</li>
 </ul>
 
 <div style="display: inline_block"><br>
