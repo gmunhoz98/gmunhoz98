@@ -7,8 +7,7 @@
   <br>
   <p>Por hora estou aprendendo bastante coisa, se tiver interesse ou ideias para falar para mim pode me chamar sem problemas</p>
 </ul>
-
-
+<hr>
  <div>
    <a href="https://github.com/gmunhoz98">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gmunhoz98&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&border_color=midnight"/>
@@ -24,7 +23,7 @@
   <img align="center" alt="sql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div>
-
+<br>
   ### Para entrar em contato, tente os links abaixo.
  
 <div> 
