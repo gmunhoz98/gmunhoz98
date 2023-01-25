@@ -1,10 +1,10 @@
 ## Bem-vindo(a) ao perfil do Gabriel Munhoz 😁
 
 <ul>
-  <p>🚀 Sou desenvolvedor Fullstack Jr da empresa Icaro Tech 🚀</p>
+  <p>🚀 Sou desenvolvedor Fullstack na empresa Icaro Tech 🚀</p>
   <p> Olá, tudo bem? </p>
   <p> Esse é meu portifólio, ainda está crescendo, mas um dia ficará bem bonito vocês vão ver!! 🔥🔥 </p>
-  <p>Por hora estou aprendendo bastante coisa, se tiver interesse ou ideias para falar para mim pode me chamar sem problemas.</p>
+  <p>Por hora estou aprendendo bastante coisa, se tiver interesse ou ideias pode me chamar sem problemas.</p>
 </ul>
 
 <hr>
