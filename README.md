@@ -26,8 +26,8 @@ Tenho uma ética de trabalho persistente: acredito que códigos de qualidade sã
 
 <div align="center">
   <a href="https://github.com/gmunhoz98">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gmunhoz98&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmunhoz98&layout=compact&langs_count=7&theme=dark"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=gmunhoz98&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmunhoz98&layout=compact&langs_count=7&theme=dark" alt="Linguagens Mais Usadas" />
   </a>
 </div>
 
